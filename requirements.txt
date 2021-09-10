@@ -1,0 +1,5 @@
+httpx
+lxml
+nltk
+wordcloud
+matplotlib
